@@ -1,0 +1,6 @@
+#+title: Post One
+#+date: <2020-02-12 Wed>
+#+author: Mark Mihajlovic
+#+email: markhmihajlovic@googlemail.com
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
