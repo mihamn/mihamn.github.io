@@ -1,0 +1,19 @@
+(undo-tree-save-format-version . 1)
+"71d5036a48ce3acf39aa4804d70d59abf623d878"
+[nil nil nil nil (25930 47333 989093 0) 0 nil]
+([nil nil ((42 . 43) (t 25930 47195 311139 679000)) nil (25930 47333 989092 0) 0 nil])
+([nil nil ((nil rear-nonsticky nil 370 . 371) (nil fontified nil 43 . 371) (43 . 371)) nil (25930 47333 989090 0) 0 nil])
+([nil nil ((371 . 372)) nil (25930 47333 989085 0) 0 nil])
+([nil current ((#(";; Define the publishing project
+(setq org-publish-project-alist
+      (list
+       (list \"my-org-site\"
+             :recursive t
+             :base-directory \"./content\"
+             :publishing-directory \"./public\"
+             :publishing-function 'org-html-publish-to-html)))
+
+;; Generate the site output
+(org-publish-all t)
+" 0 90 (fontified t) 90 103 (face font-lock-string-face fontified t) 103 159 (fontified t) 159 170 (face font-lock-string-face fontified t) 170 206 (fontified t) 206 216 (face font-lock-string-face fontified t) 216 251 (fontified t) 251 309 (face font-lock-string-face fontified t) 309 327 (face font-lock-string-face fontified t) 327 328 (face font-lock-string-face rear-nonsticky t fontified t) 328 329 (face font-lock-string-face fontified t)) . 43) (undo-tree-id0 . -329) (undo-tree-id1 . -19) (undo-tree-id2 . -329) (undo-tree-id3 . -19) (t 25930 47333 993470 604000)) nil (25930 48666 725242 0) 0 nil])
+nil

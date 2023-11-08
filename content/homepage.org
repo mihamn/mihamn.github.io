@@ -1,0 +1,36 @@
+#+BEGIN_EXPORT html
+<div id="topbar">
+#+END_EXPORT
+This is the topbar
+#+BEGIN_EXPORT html
+</ div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<div id="sidebar">
+#+END_EXPORT
+This is in the sidebar.
+#+BEGIN_EXPORT html
+</ div>
+#+END_EXPORT
+
+#+BEGIN_EXPORT html
+<div id="middlebit">
+#+END_EXPORT
+
+* Page 1
+This is the first page
+
+
+* Page 2
+This is the second page
+
+* Page 3
+This is the third page
+
+* Page 4
+This is the fourth page
+
+#+BEGIN_EXPORT html
+</ >
+#+END_EXPORT
